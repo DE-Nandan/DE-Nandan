@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandan Kumar</h1>
-<h3 align="center">Software Engineer | Oracle Cloud Infrastructure | NIT Allahabad '24</h3>
+<h3 align="center">Software Engineer @Oracle  | NIT Allahabad '24</h3>
 
 - 💻 Experienced in distributed systems, microservices, and cloud-native architectures.
 - 🌱 Currently deep-diving into advanced concurrency, containerization, and scalable backend engineering.
