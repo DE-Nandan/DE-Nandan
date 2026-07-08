@@ -3,8 +3,7 @@
 
 - 💻 Experienced in distributed systems, microservices, and cloud-native architectures.
 - 🌱 Currently deep-diving into advanced concurrency, containerization, and scalable backend engineering.
-- 👨‍💻 Explore my work & portfolio: [Portfolio](https://de-nandan.github.io/port_react/) | [GitHub](https://github.com/de-nandan)
-- 📫 Reach me at **nandankmrde@gmail.com**
+- 👨‍💻 Explore my work & portfolio:| [GitHub](https://github.com/de-nandan)
 
 ---
 
